@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir -rf /tmp/my_first_directory
+rmdir --ignore-fail-on-non-empty /tmp/my_first_directory
