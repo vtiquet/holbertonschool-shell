@@ -1,10 +1,14 @@
-<div align="center"><img src="[https://github.com/vtiquet/holbertonschool-resources/blob/main/image/Holberton-Logo.svg](https://github.com/vtiquet/holbertonschool-resources/blob/main/image/Holberton-Logo.svg)" width=40% height=40%/></div>
+<div align="center"><img src="https://github.com/vtiquet/holbertonschool-resources/blob/main/image/Holberton-Logo.svg" width=40% height=40%/></div>
+
+---
 
 ## 🚀 Overview
 
 This repository is a collection of solution files and projects completed as part of the **Holberton School** curriculum, focusing on **Shell, permissions, I/O redirection, and variable expansion** in Unix-like operating systems.
 
 The tasks are organized into various directories, each representing a specific project or module.
+
+---
 
 ## 📁 Directory Structure
 
@@ -14,6 +18,8 @@ The tasks are organized into various directories, each representing a specific p
 | `permissions` | **File Permissions** | Scripts demonstrating how to view and modify file and directory permissions using `chmod`, `chown`, and `chgrp`. | 
 | `init_files_variables_and_expansions` | **Init, Variables, and Expansions** | Tasks covering aliases, environment variables (`PATH`, `USER`), arithmetic operations, quoting, and shell expansions. | 
 | `io_redirections_and_filters` | **I/O Redirections and Filters** | Scripts utilizing standard I/O redirection (`<`, `>`, `>>`, `|`), and filtering commands such as `head`, `tail`, `grep`, `sort`, `uniq`, and `tr`. | 
+
+---
 
 ## 💡 Key Concepts Covered
 
@@ -71,6 +77,8 @@ The tasks are organized into various directories, each representing a specific p
 
 * Extracting fields (`cut`)
 
+---
+
 ## 🛠️ How to Run the Scripts
 
 All files in this repository are intended to be run as executable Shell scripts.
@@ -80,7 +88,7 @@ All files in this repository are intended to be run as executable Shell scripts.
    ```bash
    git clone https://github.com/vtiquet/vtiquet-holbertonschool-shell.git
    cd vtiquet-holbertonschool-shell
-````
+   ```
 
 2.  **Make a script executable:**
     Before running any file, ensure it has execute permission:
@@ -95,7 +103,7 @@ All files in this repository are intended to be run as executable Shell scripts.
     ./basics/0-current_working_directory
     ```
 
------
+---
 
 ## Authors
 
